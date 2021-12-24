@@ -1,0 +1,28 @@
+.App{
+    background-color: #282C34;
+    width: 20%;
+    border: 1px solid red;
+    text-align: center;
+    margin: 0 auto;
+    align-content: center;
+}
+
+.App__header > h1{
+ font-size: 40px;
+ color: White;
+}
+
+.App__buttons{
+    display: flex;
+    padding: 0 20px;
+}
+.App__buttons > button{
+    padding: 20px 40px;
+    border-radius: 20px;
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px solid white;
+
+}
